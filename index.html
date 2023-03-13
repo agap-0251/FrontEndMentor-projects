@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Expenses chart component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script></head>
+<body>
+    <div class="wrapper">
+        <div class="top">
+            <div class="text">
+                <p>My balance</p>
+                <h1>$921.48</h1>
+            </div>
+            <svg width="72" height="48" viewBox="0 0 72 48" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle fill="#382314" cx="48" cy="24" r="24"/><circle stroke="#FFF" stroke-width="2" cx="24" cy="24" r="23"/></g></svg>
+        </div>
+        <div class="main">
+            <div class="container"><canvas id="myChart"></canvas></div>
+            </canvas>
+         
+            <div class="details">
+                <div class="amount">
+                    <p>Total this month</p>
+                    <h1>$478.33</h1>
+                </div>
+                <div class="percent">
+                    <p id = "bold">+2.4%</p>
+                    <p>from last month</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
