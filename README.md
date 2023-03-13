@@ -32,5 +32,5 @@ There are many ways to host your project for free. My recommend hosts are:
 - [Netlify](https://www.netlify.com/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
-Since this is a small page, I don't think I need to host this project..
+
 
