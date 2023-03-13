@@ -55,5 +55,5 @@ I learned how to make a chart responsive corresponding to screen size.After all 
 
 
 ## profile
-- Frontend Mentor - [@agap-0251](https://www.frontendmentor.io/profile/@agap-0251)
+- Frontend Mentor - [@agap-0251](https://www.frontendmentor.io/profile/agap-0251)
 
