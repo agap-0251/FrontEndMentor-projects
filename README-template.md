@@ -28,8 +28,8 @@ Users should be able to:
 ### Screenshot
 
 ![LargeScreen](https://user-images.githubusercontent.com/121557455/224733279-4a923820-1fc5-4582-a1dd-d93206aa45c4.png)
-![SmallScreen](https://user-images.githubusercontent.com/121557455/224733305-afd42cb6-3b65-455a-9ec5-efb3239c9858.png)
 
+![SmallScreen](https://user-images.githubusercontent.com/121557455/224733781-239dfed8-e973-499c-b609-af8daa55157d.png)
 
 ## My process
 
